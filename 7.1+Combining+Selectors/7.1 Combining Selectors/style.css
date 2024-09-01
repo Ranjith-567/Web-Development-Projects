@@ -1,0 +1,18 @@
+/* Write your code here: */
+/* group */
+h1,
+h2 {
+  color: blueviolet;
+}
+/* Child */
+.box > p {
+  color: firebrick;
+}
+/* Descendent */
+.box li{
+    color: blue;
+}
+/* Chaining */
+li.done{
+    color:seagreen;
+}
